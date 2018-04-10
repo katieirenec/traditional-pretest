@@ -1,5 +1,5 @@
 =======================================
-Plans Experiment
+Plans Prestest Pilot
 =======================================
 
 .. Here is were you specify the content and order of your new book.
@@ -14,20 +14,40 @@ Plans Experiment
    (e.g. "DataStructures/queues.rst").
 
 
-Pretest
-:::::::::::::::::::::::::::::::
+Instructions
+------------
+
+Please complete the following sections in order. 
+
+You must complete all three sections to receive extra credit.
+
+You can click the links or use the arrow on the bottom right of the page to advance.
+
+Click "Home" in the upper left hand corner if you want to return to this page.
+
+
+#1: Provide Identifying Information
+:::::::::::::::::::::::::::::::::::
 
 .. toctree::
    :maxdepth: 1
    
-   PreTest/Plans_PreTest.rst
+   Identification/ID.rst
 
 
-Demographics
+#2: Take the Traditional Pretest
+::::::::::::::::::::::::::::::::
+
+.. toctree::
+   :maxdepth: 1
+   
+   PreTest/Traditional_PreTest.rst
+
+
+#3: Answer a Reflection Survey
 :::::::::::::::::::::::::::::::
 
 .. toctree::
    :maxdepth: 1
    
    Demographics/Survey.rst
-
