@@ -119,7 +119,7 @@ html_theme = 'sphinx_bootstrap'
 #html_theme_options = {'nosidebar': 'true'}
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
-    'navbar_title': "Traditional Pretest",
+    'navbar_title': "Home",
 
     # Tab name for entire site. (Default: "Site")
     'navbar_site_name': "Chapters",
